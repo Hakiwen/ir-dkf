@@ -1,0 +1,9 @@
+192.168.0.101 slots=1 max-slots=1
+192.168.0.17  slots=1 max-slots=1
+192.168.0.16  slots=1 max-slots=1
+192.168.0.12  slots=1 max-slots=1
+192.168.0.13  slots=1 max-slots=1
+192.168.0.8   slots=1 max-slots=1
+192.168.0.9   slots=1 max-slots=1
+192.168.0.5   slots=1 max-slots=1
+192.168.0.4   slots=1 max-slots=1
